@@ -1,0 +1,1 @@
+Modelagem da base de dados da SPAECE que possibilita uma análise profunda tanto por região como por escola sobre a média dos descritores de desempenho , exemplo: (Procedimento de Leitura - Língua portuguesa).
